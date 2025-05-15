@@ -1,0 +1,6 @@
+{
+    "data_path": "/media/lab/Transcend/THINGS-Data/EEG/Preprocessed_data_250Hz",
+    "img_directory_training": "/media/lab/Transcend/THINGS-Data/THINGS-EEG_images_set/training_images",
+    "img_directory_test": "/media/lab/Transcend/THINGS-Data/THINGS-EEG_images_set/test_images",
+}
+
