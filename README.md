@@ -36,5 +36,5 @@ The detailed arguments can be found in the python file. You can freely change th
 Use the provided Jupyter notebook `new_gen.ipynb` to generate and visualize reconstructed EEG images.
 
 # Acknowledgement
-We thank the contributors and the community for their support and valuable feedback.
+We thank the authors and the lab members for their support and valuable feedback.
 We also want to exhibit our great appreciations towards the authors of [ATMS](https://github.com/dongyangli-del/EEG_Image_decode?tab=readme-ov-file), [NICE](https://github.com/eeyhsong/NICE-EEG), [Necomimi](https://arxiv.org/abs/2410.00712).
